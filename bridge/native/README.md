@@ -66,7 +66,7 @@ If you need WETH, you can wrap easily on [uniswap](https://app.uniswap.org/#/swa
 
 Cross-chain token addresses can be found in the [Optimism Token List](https://github.com/ethereum-optimism/ethereum-optimism.github.io)
 
-You bridge a token with
+You can bridge a token with
 
 ```
 npx hardhat bridgeToken --amount 0.01 --l1token 0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6 --l2token 0x4200000000000000000000000000000000000006
