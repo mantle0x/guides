@@ -80,7 +80,7 @@ You can fetch existing withdrawals with
 npx hardhat fetchWithdrawals
 ```
 
-Withdrawals will have 4 booleans to indicate it's lifecycle.
+Withdrawals will have 4 booleans to indicate its lifecycle.
 isReadyToProve, isProven, isReadyToFinalize, and isFinalized
 
 To initiate a native token withdrawal, start with
